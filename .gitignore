@@ -1,0 +1,26 @@
+# Java / Maven
+backend/target/
+*.class
+
+# Node.js / Vite
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+# Environment variables and local secrets
+.env
+.env.*
+!.env.example
+
+# VS Code and operating system
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Documentation files not intended for GitHub
+HUONG_DAN_CAI_DAT1.md
+README1.md
+TIEN_DO.md
